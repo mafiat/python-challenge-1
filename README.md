@@ -117,5 +117,5 @@ Burrito                   | $4.49  | 2
 To run the script, simply execute it in a Python environment:
 
 ```bash
-python menu_ordering_system.py
+python menu.py
 ```
